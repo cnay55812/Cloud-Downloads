@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1033",
+  "folder": "Movies__remote_control_20260517192125_c235e6",
+  "base_name": "remote_control.php",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/cnay55812/Cloud-Downloads/releases/tag/co-releases-v1-1033",
+  "files": [
+    {
+      "name": "remote_control.php",
+      "url": "https://github.com/cnay55812/Cloud-Downloads/releases/download/co-releases-v1-1033/remote_control.php",
+      "api_url": "https://api.github.com/repos/cnay55812/Cloud-Downloads/releases/assets/422680229",
+      "id": 422680229,
+      "size": 492130575,
+      "download_count": 0
+    }
+  ]
+}
