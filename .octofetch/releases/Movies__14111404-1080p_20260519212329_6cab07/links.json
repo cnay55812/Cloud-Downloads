@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5623",
+  "folder": "Movies__14111404-1080p_20260519212329_6cab07",
+  "base_name": "14111404-1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/cnay55812/Cloud-Downloads/releases/tag/co-releases-v1-5623",
+  "files": [
+    {
+      "name": "14111404-1080p.mp4",
+      "url": "https://github.com/cnay55812/Cloud-Downloads/releases/download/co-releases-v1-5623/14111404-1080p.mp4",
+      "api_url": "https://api.github.com/repos/cnay55812/Cloud-Downloads/releases/assets/424537378",
+      "id": 424537378,
+      "size": 1598590843,
+      "download_count": 0
+    }
+  ]
+}
