@@ -1,0 +1,27 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4569",
+  "folder": "Movies__15002945-1440p_20260519212819_e9eab1",
+  "base_name": "15002945-1440p.mp4",
+  "is_split": true,
+  "part_count": 2,
+  "release_url": "https://github.com/cnay55812/Cloud-Downloads/releases/tag/co-releases-v1-4569",
+  "files": [
+    {
+      "name": "15002945-1440p.mp4.part00",
+      "url": "https://github.com/cnay55812/Cloud-Downloads/releases/download/co-releases-v1-4569/15002945-1440p.mp4.part00",
+      "api_url": "https://api.github.com/repos/cnay55812/Cloud-Downloads/releases/assets/424540038",
+      "id": 424540038,
+      "size": 1544345163,
+      "download_count": 0
+    },
+    {
+      "name": "15002945-1440p.mp4.part01",
+      "url": "https://github.com/cnay55812/Cloud-Downloads/releases/download/co-releases-v1-4569/15002945-1440p.mp4.part01",
+      "api_url": "https://api.github.com/repos/cnay55812/Cloud-Downloads/releases/assets/424540702",
+      "id": 424540702,
+      "size": 1544345162,
+      "download_count": 0
+    }
+  ]
+}
