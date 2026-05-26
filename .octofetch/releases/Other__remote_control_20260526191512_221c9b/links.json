@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1974",
+  "folder": "Other__remote_control_20260526191512_221c9b",
+  "base_name": "remote_control.php",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/cnay55812/Cloud-Downloads/releases/tag/co-releases-v1-1974",
+  "files": [
+    {
+      "name": "remote_control.php",
+      "url": "https://github.com/cnay55812/Cloud-Downloads/releases/download/co-releases-v1-1974/remote_control.php",
+      "api_url": "https://api.github.com/repos/cnay55812/Cloud-Downloads/releases/assets/430427324",
+      "id": 430427324,
+      "size": 300992533,
+      "download_count": 0
+    }
+  ]
+}
